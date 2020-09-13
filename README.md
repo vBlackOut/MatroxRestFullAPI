@@ -1,4 +1,6 @@
 API for Matrox Maevex 5100 Serie and 6100 serie
+GET method for read and PUT for set parameter
+
 
 `curl https://<username>:<password>@<ipAddress>/<api_command>`
 
