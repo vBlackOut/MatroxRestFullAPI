@@ -1,3 +1,5 @@
+API for Matrox Maevex 5100 Serie and 6100 serie
+
 `curl https://<username>:<password>@<ipAddress>/<api_command>`
 
 # all settings
