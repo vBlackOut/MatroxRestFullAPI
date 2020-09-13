@@ -1,4 +1,4 @@
-`curl http://<username>:<password>@<ipAddress>/<api_command>`
+`curl https://<username>:<password>@<ipAddress>/<api_command>`
 
 # all settings
 /api/command/reboot GET
