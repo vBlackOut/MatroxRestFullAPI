@@ -1,4 +1,4 @@
-curl http://<username>:<password>@<ipAddress>/Monarch/syncconnect/sdk.aspx?command=<command>
+`curl http://<username>:<password>@<ipAddress>/<api_command>`
 
 # all settings
 /api/command/reboot GET
